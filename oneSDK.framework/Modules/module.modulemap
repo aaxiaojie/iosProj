@@ -1,0 +1,6 @@
+framework module oneSDK {
+  umbrella header "oneSDK.h"
+  export *
+
+  module * { export * }
+}
